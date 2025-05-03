@@ -8,4 +8,8 @@ numpy
 seaborn
 catboost
 xgboost
+Flask
+dill
+mlflow==2.2.2 
+dagshub
 #-e .
